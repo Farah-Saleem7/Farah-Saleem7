@@ -68,10 +68,4 @@ Graduation project: *Blockchain Helping the World: Problems Blockchain Technolog
 
 ---
 
-## 📊 GitHub Stats
-
-![Farah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farah-Saleem7&show_icons=true&theme=default)
-
----
-
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/farah-a-saleem) · fara7.saleem@gmail.com
